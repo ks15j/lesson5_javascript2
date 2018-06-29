@@ -14,8 +14,7 @@ This assignment calculated a persons tax rate which was dependent upon their
 income, and their filing status. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ks15j.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. Functions in JavaScript: 
